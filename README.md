@@ -48,9 +48,9 @@ The file used for this task is 'Tracking SDG Goal 8.ipynb', and follows the belo
 - Saving all the response tables and graphs in /Datasets, with common prefix 'output'
 
 ## Task Five: Tracking SDG Goal 5: Achieve gender equality and empower all women and girls
-The file used for this task is 'Tracking SDG Goal 5.ipynb', it explore the different metrics from the 2022 Labour Force Surveys to better understand Canada's alignment with the UN Goal
+The file used for this task is 'Tracking SDG Goal 5.ipynb', it explore the different metrics from the 2022 Labour Force Surveys to better understand Canada's alignment with the UN Goal.
 
-As with previous task, all the response tables and graphs in /Datasets, with common prefix 'output'
+As with previous task, all the response tables and graphs in /Datasets, with common prefix 'output'.
 
 ## Thought Process
 Here is the link to to [UN Sustainable Development Goal 5](https://sdgs.un.org/goals/goal5). 
@@ -62,7 +62,7 @@ I believe by comparing the unemployment rate between males and females at each e
 My assumption is that if there is no discrimination against women in the labour force, the unemployment rate between men and women should be comparative.
 
 Result of my findings:
-I observed a gap in unemployment rate between male and females, with unemployment rate for females higher at both the lower and higher end of education levels. 
+I observed a gap in unemployment rate between males and females, with unemployment rate for females higher at both the lower and higher end of education levels. 
 This brings concerns with the availability of opportunities for the female labour force who are less educated, as I believe there is a higher risk of poverty for females who meet the criteria of little education and lack of employment.
 Furthermore, the data also shows that as long as one graduates high school (education level >1), the unemployment rate significantly drops.
 
@@ -73,7 +73,7 @@ Push for programs to hire for females who are less educated, and put programs in
 This UN specified goal advocates for providing women with equal opportunities to be in management positions.The NOC_10 variable in the Labour Force Survey gives indication of whether a participant is in managerial position. This gave me the opportunity to explore percentage of women in managerial positions based on age group.
 
 Result of my findings:
-I observed significant under-representation of women in every age group compared with men. This is not an ideal scenario, and calls for closer examination on how the situation can be improved 
+I observed significant under-representation of women in every age group compared with men. This is not an ideal scenario, and calls for closer examination on how the situation can be improved.
 
 Recommendations:
 To meet the UN goal of increasing women in managerial positions, the Canadian government must bring more awareness to this issue, and work with businesses to help provide an workplace environment where women can succeed as much as men.

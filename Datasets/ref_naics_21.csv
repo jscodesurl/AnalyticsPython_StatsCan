@@ -1,0 +1,23 @@
+code,en_label,fr_label
+1,Agriculture,Agriculture
+2,Forestry and logging and support activities for forestry,Foresterie et exploitation forestière et activités de soutien à la foresterie
+3,"Fishing, hunting and trapping","Pêche, chasse et piégeage"
+4,"Mining, quarrying, and oil and gas extraction","Extraction minière, exploitation en carrière, et extraction de pétrole et de gaz"
+5,Utilities,Services publics
+6,Construction,Construction
+7,Manufacturing - durable goods,Fabrication de biens durables
+8,Manufacturing - non-durable goods,Fabrication de biens non durables
+9,Wholesale trade,Commerce de gros 
+10,Retail trade,Commerce de détail
+11,Transportation and warehousing,Transport et entreposage 
+12,Finance and insurance,Finances et assurances
+13,Real estate and rental and leasing,Services immobiliers et services de location et de location à bail
+14,"Professional, scientific and technical services","Services professionnels, scientifiques et techniques"
+15,"Business, building and other support services","Services aux entreprises, services relatifs aux bâtiments et autres services de soutien"
+16,Educational services,Services d'enseignement
+17,Health care and social assistance,Soins de santé et assistance sociale
+18,"Information, culture and recreation","Information, culture et loisirs"
+19,Accommodation and food services,Hébergement et services de restauration
+20,Other services (except public administration),Autres services (sauf les administrations publiques)
+21,Public administration,Administrations publiques
+0,Not applicable,Indisponible
